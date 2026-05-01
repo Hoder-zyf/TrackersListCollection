@@ -6,8 +6,6 @@ udp://[2a03:7220:8083:cd00::1]:451/announce
 
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-udp://admin.52ywp.com:6969/announce
-
 udp://archive.torrentonline.cc:42069/announce
 
 udp://bandito.byterunner.io:6969/announce
@@ -130,11 +128,15 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
+udp://trackthis.cyber.pz.it:1337/announce
+
 udp://uabits.today:6990/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://udp1.torrust-tracker-demo.com:6969/announce
+
+udp://utracker.ghostchu-services.top:6969/announce
 
 udp://vito-tracker.duckdns.org:6969/announce
 
