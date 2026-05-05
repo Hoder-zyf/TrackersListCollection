@@ -48,7 +48,7 @@ udp://seedpeer.net:6969/announce
 
 udp://speedtest.iperson.xyz:6969/announce
 
-udp://t.overflow.biz:6969/announce
+udp://torrent.bowed.net:8081/announce
 
 udp://torrentclub.online:54123/announce
 
@@ -85,8 +85,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hismz.cn:6969/announce
-
-udp://tracker.huadongblower.xyz:8080/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
