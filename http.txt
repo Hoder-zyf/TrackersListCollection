@@ -44,8 +44,6 @@ http://tracker.nexusstream.eu:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.plx.im:6969/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.qu.ax:6969/announce
@@ -74,15 +72,17 @@ https://ht.therarbg.to:443/announce
 
 https://open.ftorrent.com:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.zukizuki.org:443/announce
 
 https://tracker.7471.top:443/announce
-
-https://tracker.adgk.net:443/announce
 
 https://tracker.bt4g.com:443/announce
 
